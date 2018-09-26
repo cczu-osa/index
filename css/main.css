@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    padding: 0 20px;
+}
+
+.paper {
+    max-width: 800px;
+    min-height: 160px;
+    margin: 0 auto;
+    padding: 2em 2.8em;
+    margin-top: 20px;
+}
+
+.paper:first-child {
+    margin-top: 60px;
+}
+
+.paper:last-child {
+    margin-bottom: 60px;
+}
