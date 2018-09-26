@@ -28,7 +28,8 @@ var app = new Vue({
                         { name: 'SPOC', url: 'http://spoc.cczu.edu.cn/' },
                         { name: '尔雅通识课（视频网络通识课）', url: 'http://cczu.fy.chaoxing.com/' },
                         { name: '高校邦通识课', url: 'http://cczu.gaoxiaobang.com/' },
-                        { name: '智慧树通识课', url: 'http://www.zhihuishu.com' },
+                        { name: '智慧树通识课', url: 'http://www.zhihuishu.com/' },
+                        { name: 'CCZU Helper（讲座和体育刷卡查询）', url: 'https://cczu.fatewolf.com/' },
                     ]
                 },
             ]
